@@ -211,5 +211,3 @@ Through this project, I gained practical experience in:
 - Structuring and documenting a reproducible Python project.
 
 ---
-
-**Project
